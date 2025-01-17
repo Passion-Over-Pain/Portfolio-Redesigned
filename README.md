@@ -1,5 +1,6 @@
 
-![3D Rendering Of _Tinotenda Mhedziso_ With Green Glow](https://github.com/user-attachments/assets/3de04a73-9511-43d1-be7c-5fb51a3daa90)
+![3D Rendering Of _Tinotenda Mhedziso_ With Green Glow](https://github.com/user-attachments/assets/74ee0ab5-2b7a-442d-8795-a268c3a38167)
+
 
 # Project Documentation: Online Individual
 
