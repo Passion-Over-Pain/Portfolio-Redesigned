@@ -2,7 +2,7 @@
 ![3D Rendering Of _Tinotenda Mhedziso_ With Green Glow](https://github.com/user-attachments/assets/74ee0ab5-2b7a-442d-8795-a268c3a38167)
 
 
-# Project Documentation: Online Individual
+# Project Documentation: Online Porfolio
 
 As part of the **IWDV202 Semester Assignment 1**, I developed a professional online profile that represented my digital work. This project aimed to demonstrate my ability to integrate HTML, CSS, and JavaScript/JQuery using modern tools and design principles. Below is the detailed structure of the project:
 
