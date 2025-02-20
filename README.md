@@ -100,3 +100,12 @@ The project is structured as a **single-page website with 5 sections**, each ser
 
 This project helped me improve my web development skills and taught me how to showcase my abilities effectively through a digital portfolio.
 
+---
+<p align="center" style="font-family: 'Times New Roman', serif;">
+  <a href="https://dev.to/passionoverpain">Dev.to</a> |
+  <a href="mailto:tinomhedziso21@gmail.com">Email</a> |
+  <a href="https://github.com/Passion-Over-Pain">GitHub</a> |
+  <a href="https://www.linkedin.com/in/tinotenda-mhedziso/">LinkedIn</a> |
+  <a href="https://tinotenda-mhedziso.pages.dev/">Website</a>
+</p>
+
